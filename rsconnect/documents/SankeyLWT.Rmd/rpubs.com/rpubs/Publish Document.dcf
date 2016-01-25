@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/146784/4b604c897bd949e29f39ee85502a7ffc
+url: http://rpubs.com/leomartinsjf/146784
+when: 1453727215.2791
